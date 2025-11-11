@@ -427,11 +427,16 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-11-10 141114-1.png>)
-![alt text](<Screenshot 2025-11-10 141146-1.png>)
-![alt text](<Screenshot 2025-11-10 141207-1.png>)
-![alt text](<Screenshot 2025-11-10 141224-1.png>)
-![alt text](<Screenshot 2025-11-10 141240-1.png>)
+<img width="1863" height="1175" alt="Screenshot 2025-11-10 141240" src="https://github.com/user-attachments/assets/6bc599f7-5fa7-42a7-a4b6-2cee68bd852d" />
+<img width="1890" height="1149" alt="Screenshot 2025-11-10 141224" src="https://github.com/user-attachments/assets/b112a798-2354-493a-a6ef-adf3089028ff" />
+<img width="1897" height="1124" alt="Screenshot 2025-11-10 141207" src="https://github.com/user-attachments/assets/5776c6d1-797a-499e-b943-4f22f8cd79ff" />
+<img width="1907" height="1157" alt="Screenshot 2025-11-10 141146" src="https://github.com/user-attachments/assets/1285d7db-b308-4cd9-bec2-8128429137b4" />
+<img width="1904" height="1162" alt="Screenshot 2025-11-10 141114" src="https://github.com/user-attachments/assets/0c8c6fdb-7672-46dc-acee-3b7e337545e9" />
+
+
+
+
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
